@@ -53,6 +53,6 @@ Example usage is provided in `examples/example.ipynb`.
 Statistical knee model feature morphs can be visualized in `visualizations/feature_morphs/`.
 
 ## Citation
-If you use this model in your work, please cite the accompanying publication:
+If you use these models in your work, please cite the accompanying publication:
 
 Sinopoli ML, Gatti AA, Wright CE, et al. 3D Patellar instability Anatomical Severity Score (3D-PASS): A Novel Machine Learning Score Using 3D Bone Position From MRI to Predicts Outcomes of Patellar Instability Treatment (Using a Subset of Data in the JUPITER Cohort). Orthop J Sports Med (in press). DOI: 10.1177/23259671251362675.
