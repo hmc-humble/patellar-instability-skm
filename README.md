@@ -1,6 +1,4 @@
-# temp-patellar-instability-skm
-TODO temporary repo until manuscript is published
-
+# patellar-instability-skm
 This repository contains two models:
 1. a segmentation model to segment the femur, patella, and tibia from sagittal PD-weighted MRIs
 2. a statistical knee model to quantify the segmented 3D bony anatomy
@@ -57,4 +55,4 @@ Statistical knee model feature morphs can be visualized in `visualizations/featu
 ## Citation
 If you use this model in your work, please cite the accompanying publication:
 
-TODO
+Sinopoli ML, Gatti AA, Wright CE, et al. 3D Patellar instability Anatomical Severity Score (3D-PASS): A Novel Machine Learning Score Using 3D Bone Position From MRI to Predicts Outcomes of Patellar Instability Treatment (Using a Subset of Data in the JUPITER Cohort). Orthop J Sports Med (in press). DOI: 10.1177/23259671251362675.
