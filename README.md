@@ -1,6 +1,4 @@
-# temp-patellar-instability-skm
-TODO temporary repo until manuscript is published
-
+# patellar-instability-skm
 This repository contains two models:
 1. a segmentation model to segment the femur, patella, and tibia from sagittal PD-weighted MRIs
 2. a statistical knee model to quantify the segmented 3D bony anatomy
